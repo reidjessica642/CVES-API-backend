@@ -1,5 +1,7 @@
 # CVES-API-backend
-Backend for CVES-API (name subject to change)
+Backend for HACKYBARA-API
+
+A CVE API.
 
 Current utilities used:
 - MongoDB (along with Mongo Compass - local)
